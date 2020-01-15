@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () =>{
         // if(charList.indexOf(key)=== -1) return;
         
         //4 is the maximum length it could be 
-        if(buffer.length == 4){
+        if(buffer.length == codeConstant.length){
             // if (codeConstant == buffer) {   
             //     checker = true;
             // }
